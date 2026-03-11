@@ -1,0 +1,63 @@
+#square
+"""import math
+print(math.sqrt(5))"""
+
+#factorial
+"""import math
+print(math.factorial(5))"""
+
+#help
+"""help()
+import math
+help(math.display)
+print(dir(math))"""
+"""help(math.sqrt)"""
+
+#random no
+"""import random
+print(random.randint(1,100))"""
+
+#random
+"""import random
+print(random.random())"""
+
+#addition 2 module
+
+"""def add(a,b):
+    return a+b
+print(add(3,4))"""
+
+#module for arithmetic
+
+"""a= int(input("enter the number :"))
+b= int(input("enter the number :"))
+
+def add(a,b):
+    return a+b
+print("addition",add (a,b))
+
+def sub(a,b):
+    return a-b
+print("subtraction",sub(a,b))
+
+def mul(a,b):
+    return a*b
+print("multiplication",mul(a,b))
+
+def div(a,b):
+    return a/b
+print("division",div(a,b))"""
+
+#call function
+"""def greet(name):
+    print("hello",name)
+greet("varshini")"""
+
+#calc area of circle
+
+"""r=int(input("enter the number:"))
+print(r,r+r)"""
+
+"""import datetime
+now=(datetime.datetime.now())
+print(now)"""
